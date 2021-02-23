@@ -1,0 +1,10 @@
+$bg-color-header:#c0eea9;
+$bg-color-hero: #97d279;
+$bg-color-about: #97d279;
+$padding-default: 40px;
+
+@mixin main-text{
+  padding: $padding-default
+  line-height: 1.4em;
+  text-align: left;
+}
